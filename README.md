@@ -1,5 +1,6 @@
 # Birthdays-Reminder-Flask
 Create a web application to keep track of friends’ birthdays.
+<img src="https://i.imgur.com/KoRB6OV.png" width="1000px"/>
 
 
 # Testing
